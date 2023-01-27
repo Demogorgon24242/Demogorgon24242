@@ -11,7 +11,7 @@ basically everything
 learning to code together and grow ahead
 - 📫 How to reach me ...
 email me at
-choubeyaditya123@gmail.com
+adityakr.slg@gmail.com
 
 <!---
 Demogorgon24242/Demogorgon24242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
