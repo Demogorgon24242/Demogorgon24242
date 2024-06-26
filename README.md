@@ -1,18 +1,22 @@
 - 👋 Hi, I’m @Demogorgon24242
-A student in a College of Bangalore
+An intern at Harman Connected Services. I completed my B.E. from Dayananda Sagar College of Engineering.
 - 👀 I’m interested in ...
-AI and Machine Learning
 Coding 
 Contributing to free source softwares
 Data Science
+AI and Machine Learning
 - 🌱 I’m currently learning ...
-basically everything
+  Large Language models
+  Machine Learning Algorithms
+  SQL and Neo4J databases
+  and much more....
 - 💞️ I’m looking to collaborate on ...
-learning to code together and grow ahead
+projects that involve AI technologies and deepens my understanding in new domains.
 - 📫 How to reach me ...
-email me at
+email me at :- 
 adityakr.slg@gmail.com
-
+or through my LinkedIN :-
+www.linkedin.com/in/adityachoubey242
 <!---
 Demogorgon24242/Demogorgon24242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
