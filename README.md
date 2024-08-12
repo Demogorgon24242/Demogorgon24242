@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Demogorgon24242
-An intern at Harman Connected Services. I completed my B.E. from Dayananda Sagar College of Engineering.
+An associate data scientist at Harman Connected Services. I had completed my B.E. from Dayananda Sagar College of Engineering, Bengaluru.
 - 👀 I’m interested in ...
 Coding 
 Contributing to free source softwares
