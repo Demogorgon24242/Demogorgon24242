@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Demogorgon24242
-An associate data scientist at Harman Connected Services. I had completed my B.E. from Dayananda Sagar College of Engineering, Bengaluru.
+An associate data scientist at Wipro Connected Services. I had completed my B.E. from Dayananda Sagar College of Engineering, Bengaluru.
 - 👀 I’m interested in ...
 Coding 
 Contributing to free source softwares
